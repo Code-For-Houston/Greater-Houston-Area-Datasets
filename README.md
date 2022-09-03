@@ -1,7 +1,7 @@
 # Unofficial Greater Houston Area Data Portal
 
 ## What is the point?
-The goal of this README is to help connect individuals to the many different websites for datasets about the Greater Houston Area. 
+The goal of this repository/collection is to help connect individuals to the many different websites for datasets about the Greater Houston Area and beyond.
 
 ## List of Data Portals
 
@@ -184,4 +184,9 @@ The goal of this README is to help connect individuals to the many different web
 ### Miscellaneous Datasets
 
 - [Lagan Knowledge Data Dump](https://data.houstontx.gov/dataset/lagan-knowledge-data-dump)
-
+- [AWESOME public datasets @ GITHUB](https://github.com/awesomedata/awesome-public-datasets)
+  - This list of a topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses. Most of the data sets listed below are free, however, some are not.	 
+- [Top 100 Open Source Datasets for Data Science](https://medium.com/analytics-vidhya/top-100-open-source-datasets-for-data-science-cd5a8d67cc3d)
+  - Datasets for Categories: Computer Vision, NLP, Reinforcement Learning, Deep Learning etc.
+- [Kaggle datasets](https://www.kaggle.com/datasets)
+  - Kaggle is a house-hold name by now amongst data professionals. Kaggle hosts massive open source public data across various domains.
